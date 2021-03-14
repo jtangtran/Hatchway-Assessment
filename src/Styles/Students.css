@@ -1,0 +1,47 @@
+.studentPic {
+    float: left;
+    border-radius: 50%;
+    border: 2px solid #555;
+    display: inline;
+    width: 9rem;
+    margin-right: 2%;
+    margin-top: 1%;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 35px;
+    display: inline-block;
+    margin-bottom: -10px;
+}
+
+button {
+    float: right;
+}
+
+#searchInput {
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+    height: 50px;
+}
+
+.expand {
+    border: none;
+    background-color: #fff;
+    font-size: 3rem;
+    color: #9a9a9a;
+}
+
+.gradesList {
+    list-style-type: none;
+    padding-bottom: 5px;
+    color: gray;
+}
+
+.studentInfo .gradesGroup {
+    float: left;
+}
+
+.gradesGroup {
+    clear:both;
+}
